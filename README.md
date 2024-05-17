@@ -8,10 +8,10 @@ In this repository, you will find the following:
 - **Excel Dataset:** Contains the raw call center data for reference.
 - **Dashboard Images:**
   - Page 1: [Agent Analysis](https://github.com/Karan-work-24/Call_center_analysis/blob/main/Call%20centre%20analysis%20project/Agent%20analysis.png)
-  - Page 2: Call Analysis
+  - Page 2: [Call Analysis](https://github.com/Karan-work-24/Call_center_analysis/blob/main/Call%20centre%20analysis%20project/call%20analysis.png)
 - **Power BI File:** Provides a live and interactive dashboard experience.
-- **Video Demonstration:** Offers a live interaction with the dashboard.
-- **Objective & Analysis PDF:** Details the objectives and findings of the analysis.
+- **[Video Demonstration](https://github.com/Karan-work-24/Call_center_analysis/blob/main/Call%20centre%20analysis%20project/Full%20analysis.mp4):** Offers a live interaction with the dashboard.
+- **[Objective & Analysis PDF](https://github.com/Karan-work-24/Call_center_analysis/blob/main/Call%20centre%20analysis%20project/Optimizing-Call-Center-Performance.pdf):** Details the objectives and findings of the analysis.
 
 ## LinkedIn Post
 For a video demonstration of the dashboard, please refer to the following LinkedIn post:
