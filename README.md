@@ -22,7 +22,7 @@ For a video demonstration of the dashboard, please refer to the following Linked
 2. [Data Source](#data-source)
 3. [Tools Used](#tools-used)
 4. [Data Preparation](#data-preparation)
-5. [Insights](#insights)
+5. [Insights Summary](#InsightsSummary)
 6. [Recommendations](#recommendations)
 
 # Project Overview
