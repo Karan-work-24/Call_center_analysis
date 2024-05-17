@@ -9,7 +9,7 @@ In this repository, you will find the following:
 - **Dashboard Images:**
   - Page 1: [Agent Analysis](https://github.com/Karan-work-24/Call_center_analysis/blob/main/Call%20centre%20analysis%20project/Agent%20analysis.png)
   - Page 2: [Call Analysis](https://github.com/Karan-work-24/Call_center_analysis/blob/main/Call%20centre%20analysis%20project/call%20analysis.png)
-- **Power BI File:** Provides a live and interactive dashboard experience.
+- **Power BI File:** Please connect over karan.gupta.wk24@gmail.com for File and live interaction of dashboard.
 - **[Video Demonstration](https://github.com/Karan-work-24/Call_center_analysis/blob/main/Call%20centre%20analysis%20project/Full%20analysis.mp4):** Offers a live interaction with the dashboard.
 - **[Objective & Analysis PDF](https://github.com/Karan-work-24/Call_center_analysis/blob/main/Call%20centre%20analysis%20project/Optimizing-Call-Center-Performance.pdf):** Details the objectives and findings of the analysis.
 
